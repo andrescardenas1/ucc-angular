@@ -1,11 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    background: url(../src/assets/img/fondo2.jpg);
+   background: url(imagen.jpg);
     background-size: cover;
     background-attachment: fixed;
-
 }
 * {
     box-sizing: border-box;
@@ -73,3 +71,31 @@ p{
         border-radius: 2%;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

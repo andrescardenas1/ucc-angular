@@ -22,7 +22,7 @@ import { LoginComponent } from './login/login.component';
     AngularFireAnalyticsModule,
     AngularFirestoreModule
   ],
-  providers: [],
+  providers: [],  
   bootstrap: [AppComponent]
 })
 export class AppModule { }

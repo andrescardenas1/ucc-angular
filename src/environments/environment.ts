@@ -10,9 +10,7 @@ export const environment = {
     databaseURL: "https://giroytransferenciadb.firebaseio.com",
     projectId: "giroytransferenciadb",
     storageBucket: "giroytransferenciadb.appspot.com",
-    messagingSenderId: "115085697711",
-    appId: "1:115085697711:web:c63065818a6318aebdea5a",
-    measurementId: "G-73WV9LDLLE"
+    messagingSenderId: "115085697711"
   }
 };
 

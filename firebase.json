@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "ucc",
+      "public": "dist/ucc",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
